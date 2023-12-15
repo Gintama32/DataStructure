@@ -1,2 +1,3 @@
-# LinkedList
-This is a simple linked list created from scratch in python with methods such as insert, delete, read and search.
+#Data Strucute
+This is my implementations of data structures like stack, queues and linked list using python to better understand them.
+I have used list and linked list under the hood to create abstract data types such as stacks and queues.
